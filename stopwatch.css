@@ -1,0 +1,14 @@
+input{
+    background:linear-gradient(to right,#CB356B,#BD3F32);
+    color: white;
+    border:none;
+    border-radius: 10px;
+    font-size: 110%;
+    padding:10px;
+}
+body{
+    background: linear-gradient(to right, #36D1DC,#5B86E5);
+}
+h1{
+    color: white;
+}
