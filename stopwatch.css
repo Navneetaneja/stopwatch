@@ -8,6 +8,8 @@ input{
 }
 body{
     background: linear-gradient(to right, #36D1DC,#5B86E5);
+    height:100%;
+    width:100%;
 }
 h1{
     color: white;
