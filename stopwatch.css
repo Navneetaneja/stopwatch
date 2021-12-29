@@ -5,6 +5,7 @@ input{
     border-radius: 10px;
     font-size: 110%;
     padding:10px;
+    margin-bottom:5px;
 }
 body{
     background: linear-gradient(to right, #36D1DC,#5B86E5);
